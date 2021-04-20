@@ -2,7 +2,10 @@ Simple Python script that utilizes PushBullet to send whisper notifications from
 
 **Requirements**
 * Python 3.8
-* PushBullet API Key
+
+
+**Prerequisites**
+* PushBullet account & [API Key](https://www.pushbullet.com/#settings/account) (Access Token)
 
 **Installation**
 `python -m pip install -r requirements.txt`
