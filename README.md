@@ -12,3 +12,7 @@ Simple Python script that utilizes PushBullet to send whisper notifications from
 
 **Example**
 `python main.py o.abcdefg12345zzzz`
+
+
+![](https://i.imgur.com/ivjZuW2.png)
+![](https://i.imgur.com/SvbGzxJ.png)
